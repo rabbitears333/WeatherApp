@@ -1,0 +1,1 @@
+This is a React web app built using React and JQuery and Foundation for getting the weather at a select city.
